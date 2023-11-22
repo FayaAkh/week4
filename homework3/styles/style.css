@@ -1,0 +1,56 @@
+h1 {color: #FFF;
+    font-family: 'Oswald', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Yanone Kaffeesatz', sans-serif;
+font-size: 54px;
+font-style: normal;
+font-weight: 800;
+line-height: 150%; /* 81px */
+  }
+  h2{color: #CFCFCF;
+    font-family: 'Oswald', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Yanone Kaffeesatz', sans-serif;
+font-size: 26px;
+font-style: normal;
+font-weight: 400;
+line-height: 150%; /* 39px */}
+body{
+    background:url(../assets/images/video\ bg.png) no-repeat center center fixed;
+    background-size: cover;
+  }
+p{color: #C9C9C9;
+font-family: 'Oswald', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Yanone Kaffeesatz', sans-serif;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 150%; /* 21px */}
+.menu{color:  #118BDD;
+font-family: 'Oswald', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Yanone Kaffeesatz', sans-serif;
+font-size: 12px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: 0.6px;
+margin: 50px 5px 10px 20px;
+}
+.values {color: #FFF;
+
+font-family: 'Oswald', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Yanone Kaffeesatz', sans-serif;
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: 150%; /* 24px */
+padding-left: 10px;
+padding-right: 10px;
+text-decoration: none;}
+.menu:hover{text-decoration: underline;
+}
+a:active {color: #ee0e0e;}
+.first:focus {color: darkgreen;}

@@ -49,8 +49,19 @@ font-weight: 700;
 line-height: 150%; /* 24px */
 padding-left: 10px;
 padding-right: 10px;
-text-decoration: none;}
+text-decoration: none;
+;
+}
 .menu:hover{text-decoration: underline;
 }
 a:active {color: #ee0e0e;}
 .first:focus {color: darkgreen;}
+.check {
+  display: inline-block;
+  margin-right: 10px;
+  margin-left: 10px;
+  margin-top: 200px;
+  padding: 10px;
+  width: 250px;
+  height: 800px;
+}
